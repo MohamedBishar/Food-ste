@@ -54,3 +54,9 @@ img{
     align-items: center;
     margin-top: 50px;
 }
+body{
+    background-image:url(CHEF.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
