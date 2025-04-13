@@ -1,29 +1,48 @@
 
 
 
-# Food-ste  
-#### A food menu recommendation app for your restaurant, 11th April 2025  
-#### By **Mohamed Bishar**
 
-## Description  
-*Food-ste* is an app designed to provide food menu recommendations for your restaurant. It showcases the menu items with detailed descriptions, making it easier for customers to choose their meals.
+```markdown
+# 📸 Photography-site  
+### A photo gallery showcasing my best shots  
+#### By **Mohamed Bishar** | 13th April 2025
 
-## Setup/Installation Requirements  
-* To run *Food-ste*, simply start the server.
-* No dependencies or special setups are required.
+---
 
-## Known Bugs  
-* The app is working perfectly with no known bugs.
+## 📖 Description  
+**Photography-site** is a personal gallery designed to showcase my best photographic works. The site features a variety of images captured in my unique style, allowing visitors to explore and appreciate the art of photography from different perspectives.
 
-## Technologies Used  
-* HTML
-* CSS  
-The app's design features custom colors and a fully styled layout using only HTML and CSS, ensuring a visually appealing user experience.
+---
 
-## Support and contact details  
-For any issues, questions, or feedback, feel free to reach out via contact details provided.
+## ⚙️ Setup/Installation Requirements  
+To view **Photography-site**:  
+- Simply open the `index.html` file in a browser.  
+- No external dependencies or special setups are required.
 
-### License  
-*No License*  
-Copyright (c) 2025 **Mohamed Bishar**
+---
 
+## 🐛 Known Bugs  
+There are currently **no known bugs**. The site is functioning smoothly.  
+If you encounter any issues, please feel free to reach out.
+
+---
+
+## 🛠️ Technologies Used  
+- **HTML**
+- **CSS**  
+The gallery’s design is crafted using custom HTML and CSS to create a clean, minimalistic layout, ensuring that the focus remains on the photos.
+
+---
+
+## 📬 Contact  
+For inquiries or feedback, please reach out via the **Contact Form** on the site.
+
+---
+
+## 📝 License  
+**No License**  
+&copy; 2025 **Mohamed Bishar**
+
+---
+
+> *"Capturing moments."*  
